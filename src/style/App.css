@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+}
+
+.container-superheros {
+    flex-basis: 80%;
+    margin: auto;
+    padding: 4rem;
+}
+
+.item {
+    margin-bottom: 1rem;
+    border: 1px solid;
+    padding: 1rem;
+}
